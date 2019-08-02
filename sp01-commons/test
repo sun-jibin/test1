@@ -2,4 +2,8 @@ abcdefghijklmnopqrstuvwxyz
 a
 b
 d
+<<<<<<< HEAD
 f
+=======
+e
+>>>>>>> branch 'master' of https://github.com/sun-jibin/test1.git
